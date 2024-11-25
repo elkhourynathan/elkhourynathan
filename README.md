@@ -1,7 +1,7 @@
 ## Hi there, I'm Nathan 👋
 
 
-- 🎓 Studying CS @ Carleton '25
+- 🎓 Studying CS @ Carleton '26
 - 🏢 Based in Ottawa, ON
 - 🧰 MLE @ J-Squared, prev @ Apption, Starvoy
 - ⚡ Interested in ML, Finance, Reading, Mauy Thai and lifting weights :)
